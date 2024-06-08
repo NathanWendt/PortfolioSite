@@ -1,7 +1,7 @@
 {
   "name": "developer-portfolio-starter-code",
   "version": "0.1.0",
-  "homepage": "https://nathanwendt.github.io/"
+  "homepage": "https://nathanwendt.github.io/",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,10 +12,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "@vercel/postgres": "^0.8.0",
+    "bcrypt": "^5.1.1",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "framer-motion": "^11.0.28",
     "next": "13.5.1",
+    "pg": "^8.11.5",
+    "prisma": "^5.12.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },

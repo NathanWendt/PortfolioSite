@@ -23,9 +23,9 @@ export default function Home() {
             <div className='w-1/2 flex flex-col items-center self-center'>
               <AnimateText text="Transforming Vision Into Reality With Innovative Development." className='!text-6xl !text-left'/>
               <p className='my-4 text-base font-medium'>
-              With 5 years of experience in full-stack software development and full-lifecycle deep learning project management,
-              I can help you turn your plans into polished products.
-              I am capable with database management, UI/UX, and deploying your deep learning needs on cloud infrastructures.
+              With a combined 5 years of experience in full-stack software development and full-lifecycle project development in deep learning,
+              I can help turn your plans into polished products.
+              I have capabilities spanning database management, UI/UX development, and deploying deep learning apps on cloud infrastructures.
               </p>
               <div className='flex items-center self-start mt-2'>
                 <Link href="NathanWendtCV.pdf" target={"_blank"}
@@ -47,9 +47,6 @@ export default function Home() {
           </div>
         </Layout>
         <HireMe />
-        <div className='absolute right-8 bottom-8 inline-block w-24'>
-          <Image src={lightbulb} alt="NathanWendt" className='w-full h-auto' />
-        </div>
       </main>
     </>
   )
