@@ -66,14 +66,14 @@ const Experience = () => {
                     company="DataAnnotation"
                     companyLink=""
                     time="7/23-Present"
-                    work="Freelance prompt engineering for coding and data science LLM's. Involes curating effective prompts, correcting outputs, and providing comparitive feedback of multiple models for contrastive training."
+                    work="Freelance prompt engineering for coding and data science LLM's. Involves curating effective prompts, correcting outputs, and providing comparitive feedback of multiple models for contrastive training."
                     />
 
                     <Details 
                     position="Senior Data Scientist and Researcher"
                     company="Pacific Northwest National Laboratories"
                     companyLink=""
-                    time="8/19-1/24"
+                    time="8/19-1/23"
                     work="Full-lifecycle deep learning project development and applied research. Ownership of multiple small projects while also working as a technical lead in many more. Specializations in explainable computer vision with extensive exposure to attention mechanisms and Few-Shot learning."
                     />
 
@@ -81,7 +81,7 @@ const Experience = () => {
                     position="Research Assistant"
                     company="Washington State University"
                     companyLink=""
-                    time="3/24-Present"
+                    time="5/18-7/19"
                     work="Conducted research in network controls and optimization. Formulated proofs for network bounds and published results in a peer reviewed journal."
                     />
 
@@ -89,7 +89,7 @@ const Experience = () => {
                     position="OSSI Intern"
                     company="NASA AMES"
                     companyLink=""
-                    time="3/24-Present"
+                    time="6/18-8/18"
                     work="Developed a java based toolset for simulating cyber attacks within the smart-nas airtraffic control environment. Learned an extensive API and build an interactive tool within an 8 week program."
                     />
                 </ul>
