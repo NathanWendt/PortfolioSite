@@ -1,13 +1,11 @@
 import Head from 'next/head'
-
-import Layout from '@/components/Layout'
 import profilePic from "../../public/images/profile/CodeChimp.png";
 import Image from "next/image"
-import AnimateText from '@/components/AnimateText';
 import Link from 'next/link';
-import { LinkArrow } from '@/components/Icons';
-import HireMe from '@/components/HireMe';
-import lightbulb from "../../public/images/svgs/miscellaneous_icons_1.svg";
+import { LinkArrow } from '@/components/Icons.js';
+import HireMe from '@/components/HireMe.js';
+import AnimateText from '@/components/AnimateText.js';
+import Layout from '@/components/Layout.js';
 
 
 export default function Home() {

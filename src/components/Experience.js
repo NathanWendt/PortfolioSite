@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import { motion, useScroll } from 'framer-motion'
-import LiIcon from './LiIcon';
+import LiIcon from './LiIcon.js';
 
 
 const Details = ({position, company, companyLink, time, work}) => {

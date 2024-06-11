@@ -1,5 +1,5 @@
-import Footer from '@/components/Footer'
-import NavBar from '@/components/NavBar'
+import Footer from '@/components/Footer.js'
+import NavBar from '@/components/NavBar.js'
 import '@/styles/globals.css'
 import {Montserrat} from "next/font/google"
 import Head from "next/head"

@@ -1,4 +1,4 @@
-import AnimateText from '@/components/AnimateText'
+import AnimateText from '@/components/AnimateText.js'
 import Head from 'next/head'
 import React from 'react'
 

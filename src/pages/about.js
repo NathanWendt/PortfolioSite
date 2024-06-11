@@ -1,13 +1,13 @@
-import AnimateText from '@/components/AnimateText'
-import Layout from '@/components/Layout'
 import Head from 'next/head'
 import React, { useEffect, useRef } from 'react'
 import profilePic from "../../public/images/profile/kung_fu_coder.png"
 import Image from 'next/image'
-import Skills from '@/components/Skills'
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
-import Experience from '@/components/Experience'
-import Education from '@/components/Education'
+import Experience from '@/components/Experience.js'
+import Education from '@/components/Education.js'
+import AnimateText from '@/components/AnimateText.js'
+import Layout from '@/components/Layout.js'
+import Skills from '@/components/Skills.js'
 
 
 const AnimatedNumbers = ({value}) => {

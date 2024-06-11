@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
-import Logo from './Logo'
+import Logo from './Logo.js'
 import { useRouter } from 'next/router'
-import { TwitterIcon, DribbbleIcon, GithubIcon, LinkedInIcon, PinterestIcon } from './Icons'
+import { TwitterIcon, GithubIcon, LinkedInIcon, PinterestIcon } from './Icons.js'
 import {motion} from "framer-motion"
 
 const CustomLink = ({href, title, className=""}) => {
