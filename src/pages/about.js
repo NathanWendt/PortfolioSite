@@ -52,7 +52,7 @@ const about = () => {
                             </h2>
                             <p className='font-medium'>
                                 Hi! My name is Nathan Wendt. I am an engineer with a diverse background stemming from control systems
-                                to deep learning. I completed a master's of electrical engineering from WSU and spent 4 years researching,
+                                to deep learning. I completed a master&apos;s of electrical engineering from WSU and spent 4 years researching,
                                 prototyping, and deploying deep learning applications at scale at Pacific Northwest National Labs. I am curious,
                                 creative, driven, and eager to continue my professional development.
                             </p>
@@ -63,7 +63,7 @@ const about = () => {
                             </p>
                             <p className='font-medium'>
                                 I am as much artist as engineer and I attribute much of my professional success to my creatitvity, intuition, and curiousity. I look forward to hearing
-                                about your projects and figuring out how I can support your company's growth.
+                                about your projects and figuring out how I can support your company&apos;s growth.
                             </p>
                         </div>
                         <div className='col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark
