@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import React, { useEffect, useRef } from 'react'
-import profilePic from "../../public/images/profile/kung_fu_coder.png"
+import profilePic from "../../public/images/profile/Headshot.jpg"
 import Image from 'next/image'
 import { useInView, useMotionValue, useSpring } from 'framer-motion'
 import Experience from '@/components/Experience.js'
@@ -71,7 +71,7 @@ const about = () => {
                         '>
                             <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[103%] rounded-[2rem] bg-dark'/>
                                 <Image src={profilePic} alt='NathanWendt' className='w-full h-auto rounded-2xl' />
-                            </div>
+                        </div>
 
                         <div className='col-span-2 flex flex-col items-end justify-between'>
                             <div className='flex flex-col items-end justify-center'>
