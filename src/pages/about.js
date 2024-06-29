@@ -57,12 +57,12 @@ const about = () => {
                                 creative, driven, and eager to continue my professional development.
                             </p>
                             <p className='my-4 font-medium'>
-                                I took a hiatus from my career in 2023 to travel, meditate, and pursue writing. In that time
+                                I took a hiatus from my career in 2023 to travel, meditate, and pursue writing. In that time,
                                 I stayed professionally active freelancing prompt engineering, full-stack web development, and even 
                                 opening a successful pop-up kitchen. 
                             </p>
                             <p className='font-medium'>
-                                I am as much artist as engineer and I attribute much of my professional success to my creatitvity, intuition, and curiousity. I look forward to hearing
+                                I am as much artist as engineer, and I attribute much of my professional success to my creativity, intuition, and curiosity. I look forward to hearing
                                 about your projects and figuring out how I can support your company&apos;s growth.
                             </p>
                         </div>
